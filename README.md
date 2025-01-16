@@ -1,3 +1,2 @@
-very dangrous virus 
-1001010011010010101101010110101001021011010101010100011001000100101010100110
-educational purposes only
+A virus written in BatchScript!
+:)
